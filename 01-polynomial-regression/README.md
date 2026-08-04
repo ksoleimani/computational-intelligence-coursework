@@ -20,7 +20,7 @@ Investigate polynomial regression using Python and evaluate model performance fo
 
 ## Files
 
-- polynomial_regression.ipynb
+- polynomial regression.ipynb
 - Polynomial regression - Data.csv
 
 ## Results
