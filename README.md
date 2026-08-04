@@ -25,7 +25,7 @@ The coursework focuses on the practical implementation of machine learning algor
 
 ---
 
-## Technologies
+## Tools and Libraries
 
 - Python
 - NumPy
