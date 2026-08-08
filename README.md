@@ -9,7 +9,6 @@ The coursework focuses on the practical implementation of machine learning and a
 ---
 
 ## Topics Covered
-
 - Regression
 - Classification
 - Clustering
@@ -19,6 +18,8 @@ The coursework focuses on the practical implementation of machine learning and a
 - Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
 - Long Short-Term Memory (LSTM)
+- Genetic Algorithms (GA)
+- Particle Swarm Optimization (PSO)
 - Model Selection and Performance Evaluation
 - Train / Validation / Test Splitting
 - Hyperparameter Tuning
@@ -28,19 +29,19 @@ The coursework focuses on the practical implementation of machine learning and a
 ---
 
 ## Tools and Libraries
-
 - Python
 - NumPy
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Keras
+- Keras / TensorFlow
+- PyGAD
+- Pillow
 - Jupyter Notebook
 
 ---
 
 ## Repository Structure
-
 ```text
 computational-intelligence-coursework/
 │
@@ -51,6 +52,26 @@ computational-intelligence-coursework/
 ├── 05-multilayer-perceptron/
 ├── 06-convolutional-neural-network/
 ├── 07-rnn-and-lstm/
+├── 08-genetic-algorithms/
+├── 09-particle-swarm-optimization/
 │
 ├── README.md
 └── requirements.txt
+```
+
+---
+
+## How to Run
+1. Clone the repository:
+```bash
+   git clone <your-repo-url>
+   cd computational-intelligence-coursework
+```
+2. Install dependencies:
+```bash
+   pip install -r requirements.txt
+```
+3. Open any folder's notebook in Jupyter:
+```bash
+   jupyter notebook
+```
