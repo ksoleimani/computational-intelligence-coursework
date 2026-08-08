@@ -22,7 +22,6 @@ model (MobileNetV2), and interpret their predictions with Grad-CAM.
 
 ## Files
 - steel_defect_cnn.ipynb
-- IMAGES.zip
 
 ## Results
 The custom CNN reached 47.41% test accuracy (overfit on training data), while the
